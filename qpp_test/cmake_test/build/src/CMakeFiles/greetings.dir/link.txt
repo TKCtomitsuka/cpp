@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libgreetings.dylib -install_name /Users/tomitsukatakeshi/Desktop/C++Study/cmake_test/build/src/libgreetings.dylib CMakeFiles/greetings.dir/hello.cpp.o CMakeFiles/greetings.dir/good_morning.cpp.o 
